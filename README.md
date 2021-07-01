@@ -5,4 +5,4 @@
 ## 使用
    使用PD启动器，只能默认启动名字叫  **Windows 10**  的虚拟机，比如说我们要启动kali、ubuntu等，就需要先  **把对应的虚拟机恢复**  ，然后  **关闭**  ，这时候  **点击小齿轮**  ，进入到虚拟机的配置界面，  **更改对应虚拟机的名字为Windows 10**  即可。<br>
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/53027649/124069917-9884d800-da6f-11eb-8309-aab64be8f8f3.png)
