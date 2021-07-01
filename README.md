@@ -1,5 +1,6 @@
 # MacBook_Pro_M1-install-ParallesDesktop  
 ## 一、安装
+_site for downloading：https://www.macwk.com/soft/parallels-desktop-for-arm_<br>
 如果你是  **第一次安装**  ，并且之前没装过试用版，  **按照安装包内的教程安装即可**  ！<br>
 如果  **以前安装过**  试用并过期或试用了普通版，安装前需要把  **电脑时间改成 2021 年 4 月 1 日**  ，否则会出现各种奇怪的报错，安装 parallels desktop 后，选择  **试用**  ，然后一定要记得  **安装你后面要用的虚拟机**  ，我这里把我要用的 win10、kali、ubutun 都安装完了，  **然后退出parallesl desktop**  ，接着你  **打开活动监视器**  ，  **把系统时间改回来**  ，最后双击  **运行PD启动器**  正常启动即可，后面也是用它启动。<br>
 
